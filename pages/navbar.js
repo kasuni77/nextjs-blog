@@ -17,7 +17,7 @@ export default function navbar(){
                                 <a className="nav-link active" aria-current="page" href="/">Home</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link active" href="/inventory">Inventory</a>
+                                <a className="nav-link active" href="/Inventory">Inventory</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link active" href="#">Delivery</a>

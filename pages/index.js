@@ -26,7 +26,7 @@ function home() {
                     <h1 className="title" style={{color:"cornflowerblue", marginTop:"100px", marginLeft:"100px"}}>
                         Welcome to Shopzilla
                     </h1>
-                    <a type="button" className="btn  center" href='/inventory' style={{marginLeft:"250px", marginTop:"100px", backgroundColor:"cornflowerblue", color:"white"}}>Inventory  &rarr;</a>
+                    <a type="button" className="btn  center" href='/Inventory' style={{marginLeft:"250px", marginTop:"100px", backgroundColor:"cornflowerblue", color:"white"}}>Inventory  &rarr;</a>
                 </div>
             </div>
 
