@@ -1,0 +1,36 @@
+.centerContent {
+    /* width: 700px;
+    height: 900px;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    flex-wrap: wrap; */
+    align-content: center;
+}
+.formControl {
+    width: 300px;
+    height: 30px;
+}
+.rightbutton {
+    position: relative;
+    float: right;
+    padding-right: 200px;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #ffff00;
+    padding: 10px;
+}
+
+.centermain {
+    display: inline-flexbox;
+    align-items: center;
+    justify-content: center;
+}
+/*.mycenter {*/
+/*    display: -ms-inline-grid;*/
+/*    flex-wrap: wrap;*/
+/*    align-content: center;*/
+/*    position: relative;*/
+/*}*/
+
