@@ -6,7 +6,7 @@ function Inventory(){
         <div>
             <Navbar />
             <h1 className="title" style={{color:"cornflowerblue", marginTop:"100px", marginLeft:"100px"}}>
-                Welcome to Shopzilla's Inventory
+                Welcome to Inventory
             </h1>
             <br/>
             {/*<TABLE/>*/}
